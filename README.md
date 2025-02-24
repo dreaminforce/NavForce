@@ -12,9 +12,9 @@ Features:
 
 
 Issues:
-1. Search Functionality with Caps letter not working
-2. Logo Color fade a little bit.
-3. Font size too small.
+1. Search Functionality with Caps letter not working[Done, will be available in next patch]
+2. Logo Color fade a little bit.[Done, will be available in next patch]
+3. Font size too small.[Done, will be available in next patch]
 4. Disabling the Run Test Class icon until confirmation comes.
-5. Run test icon size too small.
+5. Run test icon size too small.[Done, will be available in next patch]
    
